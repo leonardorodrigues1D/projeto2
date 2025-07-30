@@ -20,24 +20,40 @@ section {
   justify-content: center;
 }
 
+.chamada-texto {
+  margin-right: 5%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
 section {
-  background: rgb(88, 28, 116);
+  background: rgb(0, 0, 0);
   padding-bottom: 80px;
   padding-top: 80px;
   display: flex;
   justify-content: center;
 }
 
-section {
-  background: rgb(15, 14, 14);
-  padding-bottom: 80px;
-  padding-top: 80px;
-  display: flex;
-  justify-content: center;
+.chamada-texto {
+  margin-right: 5%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
 }
 
 section {
-  background: rgb(230, 3, 3);
+  background: rgb(236, 75, 75);
   padding-bottom: 80px;
   padding-top: 80px;
   display: flex;
