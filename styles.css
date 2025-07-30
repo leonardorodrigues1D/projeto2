@@ -20,6 +20,30 @@ section {
   justify-content: center;
 }
 
+section {
+  background: rgb(88, 28, 116);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  background: rgb(15, 14, 14);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  background: rgb(230, 3, 3);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
 .chamada-texto {
   margin-right: 5%;
 }
